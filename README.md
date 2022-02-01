@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kiasambrook
+- 👋 Hi, I’m @kiasambrook, a Business Information Technology Student based in Wales
 - 👀 I’m interested in web development with HTML, CSS, JavaScript, PHP, PostgreSQL, ...
 - 🌱 I’m currently looking to expand into a full stack web developer and begin my process in MERN stack
-- 💞️ Currently working on my degree final project and building a backend for my portfolio
+- :pencil: Currently working on my degree final project and building a backend for my portfolio
 - 📫 Reach me via [email](mailto:kiasambrook@gmail.com) or visit [my website](www.kiasambrook.co.uk)
 
 <!---
