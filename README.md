@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development with HTML, CSS, JavaScript, PHP, PostgreSQL, ...
 - 🌱 I’m currently looking to expand into a full stack web developer and begin my process in MERN stack
 - 💞️ Currently working on my degree final project and building a backend for my portfolio
-- 📫 How to reach me kiasambrook@gmail.com or viist [www.kiasambrook.co.uk](my website)
+- 📫 How to reach me kiasambrook@gmail.com or visit [my website](www.kiasambrook.co.uk)
 
 <!---
 kiasambrook/kiasambrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
