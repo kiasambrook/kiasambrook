@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development with PHP, React, NextJS...
 - 🌱 I’m currently exploring the MERN stack
 - :pencil: Redeveloping my portfolio
-- 📫 Reach me via [email](mailto:kiasambrook@gmail.com) or visit [my website](www.kiasambrook.co.uk)
+- 📫 Reach me via [email](mailto:kiasambrook@gmail.com) or visit [my website](https://www.kiasambrook.co.uk)
 
 <!---
 kiasambrook/kiasambrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
