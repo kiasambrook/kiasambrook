@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kiasambrook, a junior developer based in Wales
-- 👀 I’m interested in web development with PHP, React, NextJS...
-- 🌱 I’m currently exploring the MERN stack
+- 👋 Hi, I’m @kiasambrook, a web developer based in Wales
+- 👀 I currently work as a backend developer with experience in full stack
+- 🌱 I’m enjoy working with PHP and React, I am currently exploring Laravel
 - :pencil: Redeveloping my portfolio
 - 📫 Reach me via [email](mailto:kiasambrook@gmail.com) or visit [my website](https://www.kiasambrook.co.uk)
 
